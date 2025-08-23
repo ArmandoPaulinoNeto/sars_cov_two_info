@@ -1,7 +1,7 @@
 ## Sars Cov 2 info
 
 ### App show data cases of SARS CovA 2 in the world by requesting informations of API with responses in JSON format.
-* * * #### API -> [Open Disease Data API](https://disease.sh/v3/covid-19/historical)
+* #### API -> [Open Disease Data API](https://disease.sh/v3/covid-19/historical)
 &nbsp; &nbsp;
 ### How the App Works
 * #### Instructions:
