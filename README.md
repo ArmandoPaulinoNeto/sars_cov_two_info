@@ -1,6 +1,6 @@
 ## Sars Cov 2 info
 
-### App show data cases of SARS CovA 2 in the world by requesting informations of API with responses in JSON format.
+### App show data cases of SARS Cov 2 in the world by requesting informations of API with responses in JSON format.
 * #### API -> [Open Disease Data API](https://disease.sh/v3/covid-19/historical)
 &nbsp; &nbsp;
 ### How the App Works
@@ -12,7 +12,7 @@
 
 * * This App initialize with Brazil's data;
 
-* * Do a research infomading a county and an intial date;
+* * Do a research infomading a country and an intial date;
 
 * * So your research will prensent in form of graphic full period and cards with monthly data;
 
