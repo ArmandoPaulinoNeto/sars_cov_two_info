@@ -17,19 +17,21 @@
 * * So your research will prensent in form of graphic full period and cards with monthly data;
 
 * #### Visual Examples
-&nbsp; &nbsp;
-- - - http://localhost:3040/artists
-&nbsp; &nbsp;
-![Initializing App](https://github.com/ArmandoPaulinoNeto/)
-&nbsp; &nbsp;
-![main Screen](https://github.com/ArmandoPaulinoNeto/)
-&nbsp; &nbsp;
-![Research for County an Initial date](https://github.com/ArmandoPaulinoNeto/)
-&nbsp; &nbsp;
-![Alert!](https://github.com/ArmandoPaulinoNeto/)
-&nbsp; &nbsp;
-![Research in correct format](https://github.com/)
-&nbsp; &nbsp;
+<br/><br/>
+![Initializing App](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/loading-initial.png)
+&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;
+![main Screen](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/default-research.png)
+&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;
+![Research for County an Initial date](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/research-validation.png)
+<br/><br/><br/>
+![Alert!](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/notifacation-error.png)
+&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;
+![Research in correct format](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/correct-research.png)
+&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;
+![Loading esearch](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/loading-research.png)
+<br/><br/><br/>
+![Show esearch](https://github.com/ArmandoPaulinoNeto/sars_cov_two_info/blob/main/screenshots/show-research.png)
+<br/><br/>
 ### :computer: Technologies Used:
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
